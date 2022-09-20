@@ -9,7 +9,7 @@ An Aspiring Software Engineer currently studying a Bsc computer science degree a
 * 🌍  I'm based in London
 * ✉️  You can contact me at [jaredawiti2017@gmail.com](mailto:jaredawiti2017@gmail.com)
 * 🚀  I'm currently working on [Flask Social Media](http://github.com/JaredFA363/FlaskSocialMedia)
-* 🧠  I'm learning ReactJS & C++
+* 🧠  I'm learning JavaScript & C++
 * ⚡  Currently seeking an Software Engineering intern opportunity
 
 ### Skills
