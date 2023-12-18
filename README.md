@@ -4,13 +4,13 @@ Hi 👋 My name is Jared Awiti
 Computer Science Student
 ------------------------
 
-An Aspiring Software Engineer currently studying a Bsc computer science degree at university. Keen interests in AI and Robotics. My main programming language is Python and also have some experience in C++,HTML,CSS and a little java. Here are my personal projects
+A Tech Enthusiast currently studying a Bsc Computer Science degree at university. Keen interests in AI, Cloud Computing, Solution Architecture and Robotics. My main programming language is Python and also have some experience in C++, HTML, CSS, Java and other technologies. I hope you enjoy my profile!
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [jaredawiti2017@gmail.com](mailto:jaredawiti2017@gmail.com)
-* 🚀  I'm currently working on [Flask Social Media](http://github.com/JaredFA363/FlaskSocialMedia)
-* 🧠  I'm learning JavaScript & C++
-* ⚡  Currently seeking an Software Engineering intern opportunity
+* 🚀  I'm currently working on AI Interview Website (Private)
+* 🧠  I'm learning about OpenAI API
+* ⚡  Currently seeking a Tech Graduate Program/ Graduate Job opportunities.
 
 ### Skills
 
