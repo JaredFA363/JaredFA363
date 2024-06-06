@@ -8,8 +8,8 @@ A Tech Enthusiast who has completed a Bsc Computer Science degree at university.
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [jaredawiti2017@gmail.com](mailto:jaredawiti2017@gmail.com)
-* 🚀  I'm currently working on AI Interview Website
-* 🧠  I'm learning about OpenAI API
+* 🚀  I'm currently working on AI Football Analysis Project
+* 🧠  I'm learning about OpenAI API & Azure
 * ⚡  Currently seeking a Tech Graduate Program/ Graduate Job opportunities.
 
 ### Skills
